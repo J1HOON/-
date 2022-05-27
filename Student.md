@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/102014376/170621800-823ea8bb-3269-444f-b78f-3ab5b3878cf2.png)
 
 
-   <h2> index </h2> <h3><u> jsp에 있는 jsp:include를 이용해 다른 jsp파일을 index로 불러옴. </u></h3>
+   <h2> index </h2> <h3 style ="text-decoration : underline;"> jsp에 있는 jsp:include를 이용해 다른 jsp파일을 index로 불러옴. </h3>
    
 ![image](https://user-images.githubusercontent.com/102014376/170621650-4e225a58-b3d3-44a4-8460-d857879820da.png)
 ![image](https://user-images.githubusercontent.com/102014376/170621827-4b9cdac3-ae61-424e-bfbb-85dab473b5d4.png)
