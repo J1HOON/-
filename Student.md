@@ -36,8 +36,8 @@
 ![image](https://user-images.githubusercontent.com/102014376/170621650-4e225a58-b3d3-44a4-8460-d857879820da.png)
 ![image](https://user-images.githubusercontent.com/102014376/170621827-4b9cdac3-ae61-424e-bfbb-85dab473b5d4.png)
 
-  <h2> 내가 모르는 것 </h2>
+  <h2> 내가 몰랐던 것 </h2>
   <h3> 1. jsp에서 css를 사용할 시 link rel="stylesheet" href="경로"를 넣어서 경로를 지정해 줘야 작동이 됨.</h3>
   <h3> 2. jsp:inclue page="경로"로 다른 jsp파일을 불러들일 수 있음.</h3>
   <h3> 3. eclipse로 jsp를 만들면서 eclipse는 다른 프로그램에 비해 굉장히 불친절 하다는것을 느낌.</h3>
-
+  
