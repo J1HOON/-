@@ -1,6 +1,6 @@
 # 정보처리산업기사 실습
 
-  <h2> CSS를 이용하여 스타일 설정. </h2>
+  <h2> CSS를 이용하여 스타일 설정. </h2> <h3> width, height, background-color를 이용해 블럭을 만듦. </h3>
   
 ![image](https://user-images.githubusercontent.com/102014376/170621879-0beac5a9-54f0-46b6-b99c-e5279a33fae0.png)
 ![image](https://user-images.githubusercontent.com/102014376/170621902-9427cdf3-13bd-4754-adc3-6032f780d6a8.png)
@@ -25,13 +25,13 @@
 ![image](https://user-images.githubusercontent.com/102014376/170621789-c77ef93b-71b3-4e75-961a-71fbd3acf300.png)
 
 
-   <h2> footer </h2>
+   <h2> footer </h2> 
    
 ![image](https://user-images.githubusercontent.com/102014376/170621632-2dde3e73-5e2a-4332-8a18-09dcc771c2b9.png)
 ![image](https://user-images.githubusercontent.com/102014376/170621800-823ea8bb-3269-444f-b78f-3ab5b3878cf2.png)
 
 
-   <h2> index </h2> <h3 style ="text-decoration : underline;"> jsp에 있는 jsp:include를 이용해 다른 jsp파일을 index로 불러옴. </h3>
+   <h2> index </h2> <h3> jsp에 있는 jsp:include를 이용해 다른 jsp파일을 index로 불러옴. </h3>
    
 ![image](https://user-images.githubusercontent.com/102014376/170621650-4e225a58-b3d3-44a4-8460-d857879820da.png)
 ![image](https://user-images.githubusercontent.com/102014376/170621827-4b9cdac3-ae61-424e-bfbb-85dab473b5d4.png)
