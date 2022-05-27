@@ -4,7 +4,6 @@
   
   ### width, height, background-color를 이용해 블럭을 만듦.
   
-  --- asdasdasdas
   
 ![image](https://user-images.githubusercontent.com/102014376/170621879-0beac5a9-54f0-46b6-b99c-e5279a33fae0.png)
 ![image](https://user-images.githubusercontent.com/102014376/170621902-9427cdf3-13bd-4754-adc3-6032f780d6a8.png)
