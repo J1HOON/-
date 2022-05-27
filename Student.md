@@ -7,7 +7,7 @@
 
 
 
-  <h2> header.jsp </h2>
+  <h2> header.jsp </h2> 
   
 ![image](https://user-images.githubusercontent.com/102014376/170621565-c2f70374-28b5-4b35-9f21-467af7dc4382.png)
 ![image](https://user-images.githubusercontent.com/102014376/170621727-dee7d253-1528-46c4-8587-6b11745ef3ee.png)
@@ -35,3 +35,9 @@
    
 ![image](https://user-images.githubusercontent.com/102014376/170621650-4e225a58-b3d3-44a4-8460-d857879820da.png)
 ![image](https://user-images.githubusercontent.com/102014376/170621827-4b9cdac3-ae61-424e-bfbb-85dab473b5d4.png)
+
+  <h2> 내가 모르는 것 </h2>
+  <h3> 1. jsp에서 css를 사용할 시 link rel="stylesheet" href="경로"를 넣어서 경로를 지정해 줘야 작동이 됨.</h3>
+  <h3> 2. jsp:inclue page="경로"로 다른 jsp파일을 불러들일 수 있음.</h3>
+  <h3> 3. eclipse로 jsp를 만들면서 eclipse는 다른 프로그램에 비해 굉장히 불친절 하다는것을 느낌.</h3>
+
